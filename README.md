@@ -1,8 +1,7 @@
 ![Header](./github-header-image.png)
 
 - 📫 How to reach me : **alakbarabdullayev70@gmail.com**
-
-- ⚡ Fun fact : **I love to eat tvarok**
+<!-- - ⚡ Fun fact : **I love to eat tvarok** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
